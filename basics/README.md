@@ -1,2 +1,4 @@
 # holbertonschool-shell
-Shell_repo
+Display the contents list of your current directory.
+
+

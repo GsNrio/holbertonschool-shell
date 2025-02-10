@@ -10,4 +10,4 @@ This current push creates an empty file called "hello"
 This current push adds execute permission to the owner of the file  hello.
 This current push adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 This current push adds execution permission to the owner, the group owner and the other users, to the file hello.
-This current push gives no permissions to owner and group, and all permissions to others.
+This current push gives no permissions to owner and group, and all permissions to others.This current push sets the permissions of the file hello to read, write, execute for user; read, execute for group; write, execute for others. 

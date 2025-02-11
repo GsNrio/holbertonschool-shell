@@ -14,4 +14,6 @@ This current push gives no permissions to owner and group, and all permissions t
 This current push sets the mode of the file hello to the same as olleh's.
 This current push adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users without changing the regular files.
 This current push creates a directory called my_dir with permissions 751 in the working directory.
-This current push changes the group owner to school for the file hello.  
+This current push changes the group owner to school for the file hello.
+This current push changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+  

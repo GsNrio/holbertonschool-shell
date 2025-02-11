@@ -16,4 +16,5 @@ This current push adds execute permission to all subdirectories of the current d
 This current push creates a directory called my_dir with permissions 751 in the working directory.
 This current push changes the group owner to school for the file hello.
 This current push changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-  
+This current push writes a script that changes the owner and the group owner of the symbolic link file named hello to owner vincent and group owner staff.
+ 

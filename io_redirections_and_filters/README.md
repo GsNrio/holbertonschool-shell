@@ -5,3 +5,5 @@ This current push displays the content of the /etc/passwd file.
 This current push displays the content of /etc/passwd and /etc/hosts.
 This current push displays the last 10 lines of file /etc/passwd.
 This current push displays the first 10 lines of the file /etc/passwd.
+This current push displays the third line of the file iacta, which is in the current working directory.
+

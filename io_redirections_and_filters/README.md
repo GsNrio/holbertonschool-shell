@@ -4,4 +4,4 @@ This current push is a script that prints an output of a smiley.
 This current push displays the content of the /etc/passwd file.
 This current push displays the content of /etc/passwd and /etc/hosts.
 This current push displays the last 10 lines of file /etc/passwd.
-
+This current push displays the first 10 lines of the file /etc/passwd.

@@ -1,3 +1,3 @@
 This directory will document Shell input/output redirection scripts and the use of special characters for scripting. This directory will evidence the process of learning all tasks implied in the documented exercises and facilitate the updates to the school's evaluation tool. To access and navigate it, please sort through the github menu and navigation guides. This directory will be receiving the task updates from me, and is hosted by holberton coding school.
 
-
+This current push is a script that prints an output of a smiley.

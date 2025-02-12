@@ -8,4 +8,5 @@ This current push displays the first 10 lines of the file /etc/passwd.
 This current push displays the third line of the file iacta, which is in the current working directory.
 This current push creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:i) showing text Best School added with 1 new line at the end.
 This current push writes into a file the result of a command which will override the file if its readily created, or generate the file if it doesn't exist readily.
-  
+
+This current push duplicates the last line of the file iacta.

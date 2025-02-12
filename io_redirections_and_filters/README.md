@@ -10,3 +10,4 @@ This current push creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\
 This current push writes into a file the result of a command which will override the file if its readily created, or generate the file if it doesn't exist readily.
 
 This current push duplicates the last line of the file iacta.
+This current push deletes all the regular files (not directories) with a .js extension that are present in the current directory and all its subfolders.

@@ -6,4 +6,4 @@ This current push displays the content of /etc/passwd and /etc/hosts.
 This current push displays the last 10 lines of file /etc/passwd.
 This current push displays the first 10 lines of the file /etc/passwd.
 This current push displays the third line of the file iacta, which is in the current working directory.
-
+This current push creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.

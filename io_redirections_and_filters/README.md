@@ -12,4 +12,4 @@ This current push writes into a file the result of a command which will override
 This current push duplicates the last line of the file iacta.
 This current push deletes all the regular files (not directories) with a .js extension that are present in the current directory and all its subfolders.
 This current push writes the number of directories and sub-directories in the current directory including hidden directories.
-
+This urrent push displays the 10 newest files in the current directory at a rate of one file per line and sorted from the newest to the oldest.

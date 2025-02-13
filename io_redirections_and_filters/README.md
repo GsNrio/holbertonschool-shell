@@ -18,4 +18,4 @@ This current push displays lines containining the pattern root from the file pas
 This current push displays the number of lines that contain the pattern word bin in the file /etc/passwd.
 This current push displays lines containing pattern word root and the 3 lines after each pattern matching line in the file passwd found in directory etc.
 This current push displays all the lines in the file passwd found in the etc directory that do not contain the pattern bin.
-   
+This current push displays all the lines that start with a letter within the file sshd config found in the subdirectory ssh from the directory etc.   

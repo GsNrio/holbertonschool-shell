@@ -16,4 +16,6 @@ This urrent push displays the 10 newest files in the current directory at a rate
 This current push takes a list of words as input and prints only words that appear exactly once at a one word per line input format and output format and words should be sorted.
 This current push displays lines containining the pattern root from the file passwd found in etc dir.
 This current push displays the number of lines that contain the pattern word bin in the file /etc/passwd.
-This current push displays lines containing pattern word root and the 3 lines after each pattern matching line in the file passwd found in directory etc.  
+This current push displays lines containing pattern word root and the 3 lines after each pattern matching line in the file passwd found in directory etc.
+This current push displays all the lines in the file passwd found in the etc directory that do not contain the pattern bin.
+   

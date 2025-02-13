@@ -14,4 +14,6 @@ This current push deletes all the regular files (not directories) with a .js ext
 This current push writes the number of directories and sub-directories in the current directory including hidden directories.
 This urrent push displays the 10 newest files in the current directory at a rate of one file per line and sorted from the newest to the oldest.
 This current push takes a list of words as input and prints only words that appear exactly once at a one word per line input format and output format and words should be sorted.
-This current push displays lines containining the pattern root from the file passwd found in etc dir. 
+This current push displays lines containining the pattern root from the file passwd found in etc dir.
+This current push displays the number of lines that contain the pattern word bin in the file /etc/passwd.
+ 

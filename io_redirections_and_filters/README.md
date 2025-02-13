@@ -21,4 +21,5 @@ This current push displays all the lines in the file passwd found in the etc dir
 This current push displays all the lines that start with a letter within the file sshd config found in the subdirectory ssh from the directory etc.
 This current push replaces all characters A and c from input to Z and e respectively.
 This current push removes all letters c and C from input.
-This current push reverses its input.   
+This current push reverses its input.
+This current push displays all users and their home directories sorted by users based on the file passwd found in the etc directory.   

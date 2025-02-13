@@ -1,2 +1,2 @@
 #!/bin/bash
-sort <list | uniq>
+sort -g -u <alien dog rash card sky use hamster cord card seam cream same alien card use>

@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "hello [alias user="whoami"]"
+#!/bin/bash:w
+alias user="whoami" | echo "hello user"

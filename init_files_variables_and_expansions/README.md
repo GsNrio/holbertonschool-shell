@@ -9,3 +9,4 @@ This current push creates a script that counts the number of directories in the 
 This current push Create a script that lists environment variables.
 This current push Create a script that lists all local variables and environment variables, and functions
 The current push create a script that creates a new local variable.
+The current push create a script that creates a new global variable.

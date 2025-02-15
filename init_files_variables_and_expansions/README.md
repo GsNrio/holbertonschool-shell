@@ -10,3 +10,4 @@ This current push Create a script that lists environment variables.
 This current push Create a script that lists all local variables and environment variables, and functions
 The current push create a script that creates a new local variable.
 The current push create a script that creates a new global variable.
+The current push prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.

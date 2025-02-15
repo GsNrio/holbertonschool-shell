@@ -1,2 +1,3 @@
 #!/bin/bash
-wc -l $PATH
+echo $PATH | tr ':' '\n' | grep -c '^/'
+

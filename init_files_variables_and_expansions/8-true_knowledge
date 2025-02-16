@@ -1,2 +1,2 @@
 #!/bin/bash
-VARNAME TRUEKNOWLEDGE="1209" | $((128+TTRUEKNOWLEDGE))/n
+export varname="TRUEKNOWLEDGE" echo $/$ "VARNAME"+128 | \n

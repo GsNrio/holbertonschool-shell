@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Sum=$(("varname"+128)) | \n
+varname="TRUEKNOWLEDGE" sum=$((varname + 128)) echo "Sum=$sum" \n

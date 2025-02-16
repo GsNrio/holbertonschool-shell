@@ -14,3 +14,6 @@ The current push prints the result of the addition of 128 with the value stored 
 This current push prints the result of variable POWER divided by variable DIVIDE followed by a new line.
 This current push displays the result of variable BREATH to the power of variable LOVE.
 This current push converts a number from base 2 to base 10.
+This current push prints all positive combinations of 2 letters except oo. This is still pending for completion of pertaining exercise.
+The current script print is still pending for completion of the pertaining exercise.
+The current push converts a base 10 number stored in variable DECIMAL to base 16 fnd prints the result followed by a new line.

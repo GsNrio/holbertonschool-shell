@@ -1,2 +1,3 @@
 #!/bin/bash
-varname="TRUEKNOWLEDGE" sum=$((varname + 128)) echo "Sum=$sum" \n
+TRUEKNOWLEDGE="100"
+cat\ $((TRUEKNOWLEDGE+128))

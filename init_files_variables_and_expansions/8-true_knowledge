@@ -1,2 +1,2 @@
 #!/bin/bash
-sum=$( ( TRUEKNOWLEDGE+128 | cat "$sum" '\n' ) )
+sum=$( ( TRUEKNOWLEDGE+128 echo "$sum" '\n' ) )

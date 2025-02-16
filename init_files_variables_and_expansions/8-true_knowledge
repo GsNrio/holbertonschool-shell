@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE="100" | cat\ $((TRUEKNOWLEDGE+128))
+#TRUEKNOWLEDGE="89" | sum=$( ( TRUEKNOWLEDGE+128 | cat "$sum" '\n' ) )

@@ -1,2 +1,2 @@
 #!/bin/bash
-export varname="TRUEKNOWLEDGE" echo $/$ "VARNAME"+128 | \n
+export varname="TRUEKNOWLEDGE" | cat Sum=$(("varname"+128)) | \n

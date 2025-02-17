@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "base=16 | $DECIMAL"
+echo $((%x#($DECIMAL))
+

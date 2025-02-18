@@ -1,2 +1,2 @@
 #!/bin/bash
-NUM="(echo "scale=2; 5/3" | bc)"
+printf -v $NUM "%.2f" $value
